@@ -1,1 +1,3 @@
-# pr1
+# priklad 01
+- intalacia git
+- vytvorenie remote repozitara

@@ -1,3 +1,3 @@
 # priklad 01
-- intalacia git
+- instalacia git
 - vytvorenie remote repozitara

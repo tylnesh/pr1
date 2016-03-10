@@ -4,3 +4,4 @@
 - otvorit lokalne
                   -teoreticka cast - splnene 50%
                   -prakticka cast = 120%
+                  - pocet stran - 15

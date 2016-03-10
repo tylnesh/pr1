@@ -1,0 +1,1 @@
+Raspberry Pi je počítač o veľkosti kreditnej karty vyvinutý organizáciou Raspberry Pi. Má široké využitie napr. na HTPC, NAS Server, FTP Server, ovládanie vstupno/výstupných zariadení ako svetlá, motory a pod. 
